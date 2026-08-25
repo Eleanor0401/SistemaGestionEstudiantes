@@ -6,7 +6,7 @@ package sistemagestionestudiantes.main.sistemagestionestudiantes;
 
 /**
  *
- * @author Parallax
+ * @author Darrell
  */
 public class SistemaGestionEstudiantes {
 
