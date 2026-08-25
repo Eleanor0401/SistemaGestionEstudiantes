@@ -16,3 +16,4 @@ nbactions.xml
 # Sistema operativo
 .DS_Store
 Thumbs.db
+/target/
