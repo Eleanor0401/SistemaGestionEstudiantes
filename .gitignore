@@ -1,3 +1,6 @@
+# Maven
+target/
+
 # NetBeans
 nbproject/private/
 build/
