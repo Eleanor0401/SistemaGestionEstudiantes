@@ -1,0 +1,15 @@
+# NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+nbactions.xml
+
+# Compilados
+*.class
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
